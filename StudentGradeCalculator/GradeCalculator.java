@@ -1,4 +1,3 @@
-package StudentGradeCalculator;
 
 public interface GradeCalculator {
     void inputMarks();
